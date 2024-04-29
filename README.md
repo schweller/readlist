@@ -43,6 +43,10 @@ It includes authors, articles, books and uncategorized resources. Furthermore, t
 
 ### Resources
 
+- The Indie Quest
+  - [Game Concept](https://docs.google.com/document/d/1Km2dgPa-SyCDb1fNLLxgBp7ESjbJ8UBUaOWez3qpABs/edit)
+  - [Game Production](https://docs.google.com/document/d/11vMcJcmLGJL0ioHoV62XDJIWQ5Y-s8MB2CFRSLFfLrE/edit)
+
 
 <!-- 
 > [!NOTE]
