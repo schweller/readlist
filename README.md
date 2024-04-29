@@ -48,6 +48,11 @@ It includes authors, articles, books and uncategorized resources. Furthermore, t
   - [Game Production](https://docs.google.com/document/d/11vMcJcmLGJL0ioHoV62XDJIWQ5Y-s8MB2CFRSLFfLrE/edit)
 
 
+### Talks
+
+- [Walking Backwards Platform Engineering](https://2023.platformcon.com/talks/working-backwards-to-drive-platform-adoption)
+
+
 <!-- 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
